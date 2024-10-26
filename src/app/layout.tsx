@@ -17,24 +17,11 @@ const publicSans = Public_Sans({
 import "@livekit/components-styles";
 
 export const metadata: Metadata = {
-  title: "Realtime Playground",
-  description:
-    "Try OpenAI's new Realtime API right from your browser. Built on LiveKit Agents.",
+  title: "Realtime Assistant",
   openGraph: {
-    title: "Realtime Playground",
-    description:
-      "Try OpenAI's new Realtime API right from your browser. Built on LiveKit Agents.",
+    title: "Realtime Assistant",
     type: "website",
-    url: "https://playground.livekit.io/",
-    images: [
-      {
-        url: "https://playground.livekit.io/og-image.png",
-        width: 1200,
-        height: 675,
-        type: "image/png",
-        alt: "Realtime Playground",
-      },
-    ],
+    url: "https://www.acedit.ai",
   },
 };
 
